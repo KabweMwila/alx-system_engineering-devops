@@ -1,1 +1,1 @@
-#This script prints out the absolute path name of the current working directory.
+#each script is excutable and it has its specific command.
